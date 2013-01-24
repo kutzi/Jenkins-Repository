@@ -3,3 +3,6 @@ work
 *.iml
 pom.xml.releaseBackup
 release.properties
+.settings
+.project
+.classpath
